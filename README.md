@@ -1,2 +1,2 @@
 # TccSite
-site do trabalho de conclusão de curso
+Site do trabalho de conclusão de curso | Modelagem por Miguel, Lucas, Thiago.
